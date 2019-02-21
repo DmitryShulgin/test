@@ -1,4 +1,4 @@
-'use strict';
+/*'use strict';
 
 var n_date = new Date(),
     formatDate = n_date.getDate(),
@@ -44,4 +44,6 @@ console.log(objExpenses[1]);
 
 let deyBudget = (appData.budget - +appData.expenses[1])/30.0;
 
-alert("Ваш бюджет на 1 день: " + deyBudget.toFixed(2) + " руб.");
+alert("Ваш бюджет на 1 день: " + deyBudget.toFixed(2) + " руб.");*/
+
+console.log( 0 || "" || 2 || undefined || true || falsе ); 
